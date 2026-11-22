@@ -1,0 +1,19 @@
+1)enter a number=10
+enter another number=5
+sum=15
+sub=5
+mult=50
+div=20
+float_div=2
+mod=0
+power=10000
+
+2)enter a number=4
+enter another=2
+sum=6
+sub=2
+mul=8
+div=2.0
+float_div=2
+mod=0
+power=16
