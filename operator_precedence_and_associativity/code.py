@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+r1=a+b*c
+r2=(a+b)*c
+r3=(a**b)**c
+print("a+b*c=",r1)
+print("(a+b)*c=",r2)
+print("(a**b)**c=",r3)
