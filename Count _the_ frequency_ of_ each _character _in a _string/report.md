@@ -1,0 +1,5 @@
+Enter a string: apple
+a : 1
+p : 2
+l : 1
+e : 1
