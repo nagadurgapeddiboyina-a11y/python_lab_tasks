@@ -1,0 +1,8 @@
+Enter number of rows: 4
+   *
+  * *
+ * * *
+* * * *
+ * * *
+  * *
+   *
